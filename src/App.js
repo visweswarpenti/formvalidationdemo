@@ -28,9 +28,7 @@ class App extends Component {
         </div>
       }
     }
-
-
-    return <Login />
+    return (<Login />)
   }
 }
 
